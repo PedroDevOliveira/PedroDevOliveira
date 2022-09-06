@@ -22,5 +22,5 @@ Aqui estará o código de todas as aulas do canal https://www.youtube.com/channe
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=PedroDevOliveira&color=green)
+![](https://komarev.com/ghpvc/?username=PedroDevOliveira&color=bd93f9)
 

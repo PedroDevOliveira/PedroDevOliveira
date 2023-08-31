@@ -1,7 +1,5 @@
 ### Olá, seja bem vindo!! 👋
 
-Aqui estará o código de todas as aulas do canal https://www.youtube.com/channel/UCYaVQCv62tDsUAODZuMBdJg
-
 ## Coding Activity
 
 <br/>

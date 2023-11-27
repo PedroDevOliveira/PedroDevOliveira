@@ -27,22 +27,11 @@ I'm always open to exciting opportunities and collaborations. Let's build someth
 
 ## Coding Activity
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroDevOliveira&count_private=true&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Pedro's github stats" />
-</p>
-
-<br/>
+![PedroDevOliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroDevOliveira&theme=radical&hide_border=true)
+![PedroDevOliveira's Stats](https://github-readme-stats.vercel.app/api?username=PedroDevOliveira&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 ## Github Stats
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDevOliveira&layout=compact&theme=dracula" />
-</p>
-
-<br/>
+![PedroDevOliveira's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDevOliveira&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=PedroDevOliveira&color=bd93f9)

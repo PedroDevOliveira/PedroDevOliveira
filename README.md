@@ -27,8 +27,8 @@ I'm always open to exciting opportunities and collaborations. Let's build someth
 
 ## Coding Activity
 
-![PedroDevOliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroDevOliveira&theme=radical&hide_border=true)
-![PedroDevOliveira's Stats](https://github-readme-stats.vercel.app/api?username=PedroDevOliveira&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![PedroDevOliveira's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroDevOliveira&theme=radical&hide_border=true&include_all_commits=true)
+![PedroDevOliveira's Stats](https://github-readme-stats.vercel.app/api?username=PedroDevOliveira&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ## Github Stats
 

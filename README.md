@@ -30,7 +30,7 @@ I'm always open to exciting opportunities and collaborations. Let's build someth
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroDevOliveira&show_icons=true&theme=dracula" alt="Pedro's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroDevOliveira&count_private=true&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Pedro's github stats" />
 </p>
 
 <br/>

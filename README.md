@@ -4,7 +4,7 @@
 I'm Pedro, a dedicated software developer with a focus on creating impactful solutions. Since 2017, I've been actively involved in the development landscape, making a positive difference in the lives of over 200,000 users through innovative software solutions.
 
 ## 🏆 Achievements
-- 🚀 Developed solutions that positively impacted over 150,000 users.
+- 🚀 Developed solutions that positively impacted over 200,000 users.
 - 🤖 Implemented efficient and scalable backend solutions.
 - 📱 Contributed to the development of user-friendly mobile applications.
 - 🌐 Designed and maintained responsive and dynamic web applications.

@@ -1,7 +1,7 @@
 # Hi there, I'm Pedro Oliveira <img width="40" src="https://emojis.slackmojis.com/emojis/images/1565879801/6181/waving_hand_animated.gif?1565879801" alt="Waving Hand" /></h1>
 
 ## Welcome to my page!
-I'm Pedro, a dedicated software developer with a focus on creating impactful solutions. Since 2017, I've been actively involved in the development landscape, making a positive difference in the lives of over 150,000 users through innovative software solutions.
+I'm Pedro, a dedicated software developer with a focus on creating impactful solutions. Since 2017, I've been actively involved in the development landscape, making a positive difference in the lives of over 200,000 users through innovative software solutions.
 
 ## 🏆 Achievements
 - 🚀 Developed solutions that positively impacted over 150,000 users.
